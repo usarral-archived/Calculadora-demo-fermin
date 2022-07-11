@@ -1,0 +1,15 @@
+html,
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin: 3px;
+    padding: 5px;
+}
+
+.group {
+    display: block;
+}
