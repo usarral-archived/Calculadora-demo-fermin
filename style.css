@@ -9,6 +9,8 @@ body {
 button {
     margin: 3px;
     padding: 5px;
+    width: 30px;
+    height: 30px;
 }
 
 .group {
